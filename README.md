@@ -120,6 +120,3 @@ data     pada dictionary     dari dictionary
                       └─────────┘
 ```
 
-
-
-7. Data Dina dihapus dengan del kontak['Dina']
